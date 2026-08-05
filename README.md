@@ -15,7 +15,7 @@ Become a Robotics Software Engineer specializing in:
 - Path Planning
 - Motion Planning
 
-## 📅 Progress
+##  Progress
 
 - [x] Development Environment
 - [x] Git & GitHub Setup
